@@ -34,7 +34,7 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/2579449428",
         "admb_inters": "ca-app-pub-7144089957930196/1266367759",
